@@ -170,7 +170,7 @@ h1{
   font-weight: 300;
 }
 
-@media screen and (max-width: 64rem){
+@media screen and (max-width: 128rem){
   .col{
     width: calc(50% - 2rem);
   }
